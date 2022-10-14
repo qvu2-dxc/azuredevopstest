@@ -1,0 +1,12 @@
+D:\exercises\udemy-DevOps-pipeline-Aylward\devopswebapp\devopswebapp\bin\Release\net6.0\publish\devopswebapp.exe
+D:\exercises\udemy-DevOps-pipeline-Aylward\devopswebapp\devopswebapp\bin\Release\net6.0\publish\Publish\web.config
+D:\exercises\udemy-DevOps-pipeline-Aylward\devopswebapp\devopswebapp\bin\Release\net6.0\publish\appsettings.Development.json
+D:\exercises\udemy-DevOps-pipeline-Aylward\devopswebapp\devopswebapp\bin\Release\net6.0\publish\appsettings.json
+D:\exercises\udemy-DevOps-pipeline-Aylward\devopswebapp\devopswebapp\bin\Release\net6.0\publish\Publish\appsettings.Development.json
+D:\exercises\udemy-DevOps-pipeline-Aylward\devopswebapp\devopswebapp\bin\Release\net6.0\publish\Publish\appsettings.json
+D:\exercises\udemy-DevOps-pipeline-Aylward\devopswebapp\devopswebapp\bin\Release\net6.0\publish\Publish\devopswebapp.deps.json
+D:\exercises\udemy-DevOps-pipeline-Aylward\devopswebapp\devopswebapp\bin\Release\net6.0\publish\Publish\devopswebapp.runtimeconfig.json
+D:\exercises\udemy-DevOps-pipeline-Aylward\devopswebapp\devopswebapp\bin\Release\net6.0\publish\devopswebapp.dll
+D:\exercises\udemy-DevOps-pipeline-Aylward\devopswebapp\devopswebapp\bin\Release\net6.0\publish\devopswebapp.deps.json
+D:\exercises\udemy-DevOps-pipeline-Aylward\devopswebapp\devopswebapp\bin\Release\net6.0\publish\devopswebapp.runtimeconfig.json
+D:\exercises\udemy-DevOps-pipeline-Aylward\devopswebapp\devopswebapp\bin\Release\net6.0\publish\devopswebapp.pdb

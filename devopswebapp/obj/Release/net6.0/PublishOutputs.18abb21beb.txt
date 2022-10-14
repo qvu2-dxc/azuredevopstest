@@ -1,0 +1,7 @@
+D:\exercises\udemy-DevOps-pipeline-Aylward\devopswebapp\devopswebapp\Publish\devopswebapp.exe
+D:\exercises\udemy-DevOps-pipeline-Aylward\devopswebapp\devopswebapp\Publish\appsettings.Development.json
+D:\exercises\udemy-DevOps-pipeline-Aylward\devopswebapp\devopswebapp\Publish\appsettings.json
+D:\exercises\udemy-DevOps-pipeline-Aylward\devopswebapp\devopswebapp\Publish\devopswebapp.dll
+D:\exercises\udemy-DevOps-pipeline-Aylward\devopswebapp\devopswebapp\Publish\devopswebapp.deps.json
+D:\exercises\udemy-DevOps-pipeline-Aylward\devopswebapp\devopswebapp\Publish\devopswebapp.runtimeconfig.json
+D:\exercises\udemy-DevOps-pipeline-Aylward\devopswebapp\devopswebapp\Publish\devopswebapp.pdb
